@@ -4,7 +4,7 @@ Shell script to install a [SovranoCoin Coin Masternode](http://www.sovranocoin.c
 
 ## Installation
 ```
-wget https://github.com/SovranoCoin/installMN.sh
+wget https://raw.githubusercontent.com/SovranoCoin/mn-install/master/installMN.sh
 chmod 755 installMN.sh
 ./installMN.sh
 ```
